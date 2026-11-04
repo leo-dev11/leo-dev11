@@ -2,7 +2,7 @@
 
 # ⋆ ˚｡⋆ Leonardo Joaquin ⋆｡˚ ⋆
 
-### AI Automation &nbsp;·&nbsp; ML Research &nbsp;·&nbsp; Game Development
+### AI Engineer &nbsp;·&nbsp; ML Research &nbsp;·&nbsp; Game Development
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 🔭 About me
 
-What really gets me excited is **automating things with AI** — building agents that take real work off people's hands, not just models that predict a number. I work across the full ML stack too (training → deployment → monitoring), but agentic automation is where my head goes first.
+I'm an **AI Engineer** — I train and deploy ML models end-to-end (training → deployment → monitoring), and I build agentic systems on top of them, from RAG pipelines to AI agents that automate real work. If I had to pick a favorite part, it's that last piece — but the whole stack is home for me.
 
 I'm also big on **ML research**. I co-authored *Killa*, an LLM-based visual novel for learning Chanka Quechua (SIMBig 2026). That experience showed me how many strong student projects never turn into a paper simply because no one on the team knows how to write one — so I started helping students shape their work into real, citable research.
 
