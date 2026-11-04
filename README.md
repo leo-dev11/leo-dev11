@@ -2,7 +2,7 @@
 
 # ⋆ ˚｡⋆ Leonardo Joaquin ⋆｡˚ ⋆
 
-### AI Automation &nbsp;·&nbsp; ML Research &nbsp;·&nbsp; Night-sky enthusiast
+### AI Automation &nbsp;·&nbsp; ML Research &nbsp;·&nbsp; Game Development
 
 </div>
 
