@@ -2,7 +2,7 @@
 
 # ⋆ ˚｡⋆ Leonardo Joaquin ⋆｡˚ ⋆
 
-### ML / AI Engineer &nbsp;·&nbsp; ML Research &nbsp;·&nbsp; Night-sky enthusiast
+### AI Automation &nbsp;·&nbsp; ML Research &nbsp;·&nbsp; Night-sky enthusiast
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ### 🔭 About me
 
-I'm a Computer Science student focused on **Machine Learning Engineering** — taking models from training to production: validation, deployment, monitoring.
+What really gets me excited is **automating things with AI** — building agents that take real work off people's hands, not just models that predict a number. I work across the full ML stack too (training → deployment → monitoring), but agentic automation is where my head goes first.
 
-What I love most is **ML research**. I co-authored *Killa*, an LLM-based visual novel for learning Chanka Quechua (SIMBig 2026). That experience showed me how many strong student projects never turn into a paper simply because no one on the team knows how to write one — so I started helping students shape their work into real, citable research.
+I'm also big on **ML research**. I co-authored *Killa*, an LLM-based visual novel for learning Chanka Quechua (SIMBig 2026). That experience showed me how many strong student projects never turn into a paper simply because no one on the team knows how to write one — so I started helping students shape their work into real, citable research.
 
-By day I automate QA testing with AI agents at a multi-country payroll platform. By night, I build ML systems for fun — and a little game, because the sky at night never gets old.
+By day I automate QA testing with AI agents (Claude Code) at a multi-country payroll platform. By night, I build ML systems for fun, and slowly chip away at *Fate*, a little game of mine — because the night sky never gets old.
 
 <br>
 
@@ -25,6 +25,7 @@ By day I automate QA testing with AI agents at a multi-country payroll platform.
 | **[Zenit](https://github.com/leo-dev11/Zenit)** | Classifies galaxies, stars & quasars from 100k+ SDSS DR17 observations — served via FastAPI + Docker |
 | **[Killa](https://github.com/lucumango/killa)** | LLM-driven visual novel for learning Chanka Quechua · *SIMBig 2026* |
 | **Ayni** | Credit-risk scoring with an MLOps pipeline — MLflow, SHAP, drift monitoring |
+| **[Fate](https://gatosupercalifragilistico.itch.io/fate)** | A game I build on the side, just for fun — very early, still a long way to go |
 
 <br>
 
