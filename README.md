@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⋆ ˚｡⋆ Leonardo Joaquín ⋆｡˚ ⋆
+# ⋆ ˚｡⋆ Leonardo Joaquin ⋆｡˚ ⋆
 
 ### ML / AI Engineer &nbsp;·&nbsp; ML Research &nbsp;·&nbsp; Night-sky enthusiast
 
